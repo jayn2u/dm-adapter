@@ -42,7 +42,8 @@ Organize them in `your dataset root dir` folder as follows:
 
 ## Training
 
-```python train.py \
+```python
+python train.py \
 --name baseline \
 --img_aug \
 --batch_size 128 \
